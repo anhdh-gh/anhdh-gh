@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🌱 I’m currently studying information technology at PTIT
+- 📫 How to reach me:
+  -  Facebook: https://www.facebook.com/anhdh.fb
+  -  Email: anhdh.cv@gmail.com
+  -  Phone: 0962507172
+
+#### Project 
+- ⚡ Fun fact: I don't know if that's right, some of these aren't exactly 'Projects'. On this page you will find things I have seriously worked on
+
 <!--
 **anhdh-gh/anhdh-gh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
