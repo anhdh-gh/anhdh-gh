@@ -24,8 +24,8 @@
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=white)](#) 
 [![Dijango Badge](https://img.shields.io/badge/-django-success?style=for-the-badge&labelColor=black&logo=django&logoColor=white)](#) 
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
-[![Kubernetes Badge](https://img.shields.io/badge/-kubernetes-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
-[![K6 load testing Badge](https://img.shields.io/badge/-k6-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
+[![Kubernetes Badge](https://img.shields.io/badge/-kubernetes-61DBFB?style=for-the-badge&labelColor=black&logo=kubernetes&logoColor=61DBFB)](#) 
+[![K6 load testing Badge](https://img.shields.io/badge/-k6-61DBFB?style=for-the-badge&labelColor=black&logo=k6&logoColor=61DBFB)](#) 
 [![Heroku Badge](https://img.shields.io/badge/-heroku-430098?style=for-the-badge&labelColor=white&logo=heroku&logoColor=430098)](#) 
 [![Vercel Badge](https://img.shields.io/badge/-vercel-430098?style=for-the-badge&labelColor=black&logo=vercel&logoColor=white)](#) 
 ---
