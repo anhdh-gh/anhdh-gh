@@ -28,7 +28,6 @@
 [![K6 load testing Badge](https://img.shields.io/badge/-k6-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
 [![Heroku Badge](https://img.shields.io/badge/-heroku-430098?style=for-the-badge&labelColor=white&logo=heroku&logoColor=430098)](#) 
 [![Vercel Badge](https://img.shields.io/badge/-vercel-430098?style=for-the-badge&labelColor=black&logo=vercel&logoColor=white)](#) 
-[![Vercel Badge](https://img.shields.io/badge/-vercel-430098?style=for-the-badge&labelColor=black&logo=vercel&logoColor=white)](#) 
 ---
 
 ## **Achievement**
