@@ -48,8 +48,11 @@
 ## **How to reach me**
 <a href="https://www.facebook.com/anhdh.fb" target="_blank">
   <img src="https://img.shields.io/badge/-Do%20Hung%20Anh-blue?style=flat&labelColor=blue&logo=facebook&logoColor=white" alt="Facebook Badge">
-</a> [![Mail Badge](https://img.shields.io/badge/-Do%20Hung%20Anh-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:anhdh.cv@gmail.com) [![Phone Badge](https://img.shields.io/badge/-0962507172-brightgreen?style=flat&labelColor=brightgreen&logo=apple&logoColor=white)](tel:0962507172)
-
+</a> <a href="mailto:anhdh.cv@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Do%20Hung%20Anh-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" alt="Mail Badge">
+</a> <a href="tel:0962507172" target="_blank">
+  <img src="https://img.shields.io/badge/-0962507172-brightgreen?style=flat&labelColor=brightgreen&logo=apple&logoColor=white" alt="Phone Badge">
+</a>
 
 ## **Project**
 - ⚡ Fun fact: I don't know if that's right, some of these aren't exactly 'Projects'. On [this page](https://github.com/anhdh-gh?tab=repositories&type=public) you will find things I have seriously worked on
