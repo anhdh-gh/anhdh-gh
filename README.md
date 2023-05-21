@@ -25,7 +25,6 @@
 ## **Achievement**
 ### **In 2020**
 🔥 Complete the "Algorithms and Applications" course and receive a Samsung certificate.
-## <br>
 
 ### **In 2018 - 2023**
 🔥 Complete the study program at "Posts and Telecommunications Institute of Technology".
@@ -33,15 +32,13 @@
 🔥 Received a "Excellent" scholarship for 7/8 semesters at the university.
 
 🔥 Graduated and received a “good” degree from a university.
-## <br>
 
 ### **In Q3-2022 - Now**
 🔥 Participated in TOEIC 2 skills test at IIG Vietnam and got a score of 545.
 🔥 Working at "VinID Pay" company of One Mount Group.
 🔥 Honored to receive the award "Star employee" of the first quarter of 2023.
-## <br>
 
-# To be continued
+### To be continued
 
 ---
 
