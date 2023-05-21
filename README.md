@@ -13,7 +13,15 @@
 
 ---
 ## **Top technologies**
-[![Spring Badge](https://img.shields.io/badge/-spring-3C873A?style=for-the-badge&labelColor=white&logo=spring&logoColor=9C873Y)](#)  [![Spring Boot Badge](https://img.shields.io/badge/-spring-3C873A?style=for-the-badge&labelColor=white&logo=springboot&logoColor=9C873Y)](#) [![MySQL Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white)](#[![Spring Boot Badge](https://img.shields.io/badge/-spring-3C873A?style=for-the-badge&labelColor=white&logo=springboot&logoColor=9C873Y)](#) [![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#) [![CSS Badge](https://img.shields.io/badge/-CSS-1572b6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572b6)](#)  [ [Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=white)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
+[![Spring Badge](https://img.shields.io/badge/-spring-3C873A?style=for-the-badge&labelColor=white&logo=spring&logoColor=9C873Y)](#) 
+[![Spring Boot Badge](https://img.shields.io/badge/-spring-3C873A?style=for-the-badge&labelColor=white&logo=springboot&logoColor=9C873Y)](#) 
+[![MySQL Badge](https://img.shields.io/badge/-MySQL-3776AB?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white)](#) 
+[![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#) 
+[![CSS Badge](https://img.shields.io/badge/-CSS-1572b6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572b6)](#) 
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
+[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=white)](#) 
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
 
 ---
 
