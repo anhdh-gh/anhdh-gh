@@ -13,7 +13,6 @@
 
 ---
 ## **Top technologies**
-<pre>
 [![Spring Badge](https://img.shields.io/badge/-spring-3C873A?style=for-the-badge&labelColor=white&logo=spring&logoColor=9C873Y)](#)   
 [![Spring Boot Badge](https://img.shields.io/badge/-spring%20boot-3C873A?style=for-the-badge&labelColor=white&logo=springboot&logoColor=9C873Y)](#)   
 [![MySQL Badge](https://img.shields.io/badge/-MySQL-3776AB?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white)](#)   
@@ -23,8 +22,13 @@
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)   
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)   
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=white)](#)   
+[![Dijango Badge](https://img.shields.io/badge/-django-success?style=for-the-badge&labelColor=black&logo=django&logoColor=white)](#)  
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)   
-</pre>
+[![Kubernetes Badge](https://img.shields.io/badge/-kubernetes-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)   
+[![K6 load testing Badge](https://img.shields.io/badge/-k6-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  
+[![Heroku Badge](https://img.shields.io/badge/-heroku-430098?style=for-the-badge&labelColor=white&logo=heroku&logoColor=430098)](#)  
+[![Vercel Badge](https://img.shields.io/badge/-vercel-430098?style=for-the-badge&labelColor=black&logo=vercel&logoColor=white)](#)  
+[![Vercel Badge](https://img.shields.io/badge/-vercel-430098?style=for-the-badge&labelColor=black&logo=vercel&logoColor=white)](#)  
 ---
 
 ## **Achievement**
