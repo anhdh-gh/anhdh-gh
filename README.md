@@ -46,7 +46,9 @@
 ---
 
 ## **How to reach me**
-[![Facebook Badge](https://img.shields.io/badge/-Do%20Hung%20Anh-blue?style=flat&labelColor=blue&logo=facebook&logoColor=white)](https://www.facebook.com/anhdh.fb){:target="_blank"} [![Mail Badge](https://img.shields.io/badge/-Do%20Hung%20Anh-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:anhdh.cv@gmail.com){:target="_blank"} [![Phone Badge](https://img.shields.io/badge/-0962507172-brightgreen?style=flat&labelColor=brightgreen&logo=apple&logoColor=white)](tel:0962507172){:target="_blank"}
+<a href="https://www.facebook.com/anhdh.fb" target="_blank">
+  <img src="https://img.shields.io/badge/-Do%20Hung%20Anh-blue?style=flat&labelColor=blue&logo=facebook&logoColor=white" alt="Facebook Badge">
+</a> [![Mail Badge](https://img.shields.io/badge/-Do%20Hung%20Anh-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:anhdh.cv@gmail.com) [![Phone Badge](https://img.shields.io/badge/-0962507172-brightgreen?style=flat&labelColor=brightgreen&logo=apple&logoColor=white)](tel:0962507172)
 
 
 ## **Project**
