@@ -45,7 +45,9 @@
 
 ### **In Q3-2022 - Now**
 🔥 Participated in TOEIC 2 skills test at IIG Vietnam and got a score of 545.
+
 🔥 Working at "VinID Pay" company of One Mount Group.
+
 🔥 Honored to receive the award "Star employee" of the first quarter of 2023.
 </br>
 
